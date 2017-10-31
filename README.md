@@ -1,2 +1,0 @@
-# cursopixelpro
-Curso Pixelpro Ruby
